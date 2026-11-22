@@ -1,0 +1,36 @@
+{
+  "minX": -26.325,
+  "maxX": 26.325,
+  "minZ": -50.325,
+  "maxZ": 12.325,
+  "spanX": 52.65,
+  "spanZ": 62.65,
+  "sunDir": [
+    -0.09585,
+    0.875845,
+    -0.472979
+  ],
+  "resolution": 1024,
+  "bytes": 15969,
+  "colorType": 0,
+  "bitDepth": 8,
+  "flipY": false,
+  "meshes": [
+    "UnicampPaperBorders.001",
+    "UnicampWaterBase",
+    "UnicampLineRibbon.001",
+    "UnicampFoliageStatic",
+    "UnicampOpaqueStatic"
+  ],
+  "stats": {
+    "shadowedPixels": 307253,
+    "penumbraPixels": 30480,
+    "litPixels": 723159,
+    "totalPixels": 1048576,
+    "shadowFraction": 0.293019,
+    "minByte": 0,
+    "maxByte": 255,
+    "meanByte": 180.3
+  },
+  "elapsed_s": 12.723
+}

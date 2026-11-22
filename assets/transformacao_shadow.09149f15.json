@@ -1,0 +1,36 @@
+{
+  "minX": -37.0,
+  "maxX": 37.0,
+  "minZ": -33.0,
+  "maxZ": 33.0,
+  "spanX": 74.0,
+  "spanZ": 66.0,
+  "sunDir": [
+    -0.09585,
+    0.875845,
+    -0.472979
+  ],
+  "resolution": 1024,
+  "bytes": 22451,
+  "colorType": 0,
+  "bitDepth": 8,
+  "flipY": false,
+  "meshes": [
+    "TransformacaoPaperBorders",
+    "TransformacaoWaterBase",
+    "TransformacaoLineRibbon",
+    "TransformacaoFoliageStatic",
+    "TransformacaoOpaqueStatic"
+  ],
+  "stats": {
+    "shadowedPixels": 64076,
+    "penumbraPixels": 16558,
+    "litPixels": 970255,
+    "totalPixels": 1048576,
+    "shadowFraction": 0.061108,
+    "minByte": 0,
+    "maxByte": 255,
+    "meanByte": 239.34
+  },
+  "elapsed_s": 10.149
+}

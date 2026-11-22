@@ -1,0 +1,401 @@
+{
+  "buildId": "5864b5a4",
+  "assets": {
+    "character/victor_core.glb": {
+      "file": "assets/victor_core.6075cd48.glb",
+      "bytes": 433456
+    },
+    "character/victor_extras.glb": {
+      "file": "assets/victor_extras.69057c03.glb",
+      "bytes": 262836
+    },
+    "eras/alemanha/alemanhaObjects.glb": {
+      "file": "assets/alemanhaObjects.45544351.glb",
+      "bytes": 14332
+    },
+    "eras/alemanha/alemanhaPhysical.glb": {
+      "file": "assets/alemanhaPhysical.24fd41d9.glb",
+      "bytes": 1848
+    },
+    "eras/alemanha/alemanhaReferences.glb": {
+      "file": "assets/alemanhaReferences.e66a9e78.glb",
+      "bytes": 4620
+    },
+    "eras/alemanha/alemanhaVisual.glb": {
+      "file": "assets/alemanhaVisual.8514ffd2.glb",
+      "bytes": 516676
+    },
+    "eras/alemanha/alemanha_line_spline.json": {
+      "file": "assets/alemanha_line_spline.e4602f64.json",
+      "bytes": 36710
+    },
+    "eras/alemanha/alemanha_shadow.json": {
+      "file": "assets/alemanha_shadow.d80ce29e.json",
+      "bytes": 691
+    },
+    "eras/alemanha/alemanha_shadow.png": {
+      "file": "assets/alemanha_shadow.1ce27964.png",
+      "bytes": 21604
+    },
+    "eras/alemanha/alemanha_terrain.png": {
+      "file": "assets/alemanha_terrain.2a2e6a32.png",
+      "bytes": 3801
+    },
+    "eras/dados/dadosObjects.glb": {
+      "file": "assets/dadosObjects.7d95ec72.glb",
+      "bytes": 45132
+    },
+    "eras/dados/dadosPhysical.glb": {
+      "file": "assets/dadosPhysical.901a858c.glb",
+      "bytes": 712
+    },
+    "eras/dados/dadosReferences.glb": {
+      "file": "assets/dadosReferences.cd56f2df.glb",
+      "bytes": 5312
+    },
+    "eras/dados/dadosVisual.glb": {
+      "file": "assets/dadosVisual.7f7751f7.glb",
+      "bytes": 142212
+    },
+    "eras/dados/dados_line_spline.json": {
+      "file": "assets/dados_line_spline.2518a9fd.json",
+      "bytes": 33659
+    },
+    "eras/dados/dados_shadow.json": {
+      "file": "assets/dados_shadow.9fd356ae.json",
+      "bytes": 693
+    },
+    "eras/dados/dados_shadow.png": {
+      "file": "assets/dados_shadow.52e4be8e.png",
+      "bytes": 2785
+    },
+    "eras/dados/dados_terrain.png": {
+      "file": "assets/dados_terrain.dd5e01c0.png",
+      "bytes": 6755
+    },
+    "eras/greybox/greybox.glb": {
+      "file": "assets/greybox.559276e0.glb",
+      "bytes": 47620
+    },
+    "eras/hub/hubObjects.glb": {
+      "file": "assets/hubObjects.9de0e4bc.glb",
+      "bytes": 6972
+    },
+    "eras/hub/hubPhysical.glb": {
+      "file": "assets/hubPhysical.8e965549.glb",
+      "bytes": 6256
+    },
+    "eras/hub/hubReferences.glb": {
+      "file": "assets/hubReferences.476033f6.glb",
+      "bytes": 6504
+    },
+    "eras/hub/hubVisual.glb": {
+      "file": "assets/hubVisual.c5d6d930.glb",
+      "bytes": 671728
+    },
+    "eras/hub/hub_line_spline.json": {
+      "file": "assets/hub_line_spline.febd43a3.json",
+      "bytes": 74133
+    },
+    "eras/hub/hub_shadow.json": {
+      "file": "assets/hub_shadow.a538cd7d.json",
+      "bytes": 666
+    },
+    "eras/hub/hub_shadow.png": {
+      "file": "assets/hub_shadow.3f1859f6.png",
+      "bytes": 16356
+    },
+    "eras/hub/hub_terrain.png": {
+      "file": "assets/hub_terrain.5530b940.png",
+      "bytes": 16973
+    },
+    "eras/industria/industriaObjects.glb": {
+      "file": "assets/industriaObjects.7fc73d9b.glb",
+      "bytes": 50280
+    },
+    "eras/industria/industriaPhysical.glb": {
+      "file": "assets/industriaPhysical.f62661f2.glb",
+      "bytes": 2208
+    },
+    "eras/industria/industriaReferences.glb": {
+      "file": "assets/industriaReferences.d9a7d9b5.glb",
+      "bytes": 5500
+    },
+    "eras/industria/industriaVisual.glb": {
+      "file": "assets/industriaVisual.e0dc0a8f.glb",
+      "bytes": 194672
+    },
+    "eras/industria/industria_line_spline.json": {
+      "file": "assets/industria_line_spline.4642f539.json",
+      "bytes": 42349
+    },
+    "eras/industria/industria_shadow.json": {
+      "file": "assets/industria_shadow.04da0b58.json",
+      "bytes": 705
+    },
+    "eras/industria/industria_shadow.png": {
+      "file": "assets/industria_shadow.a36066dc.png",
+      "bytes": 2644
+    },
+    "eras/industria/industria_terrain.png": {
+      "file": "assets/industria_terrain.f99cc2ba.png",
+      "bytes": 11944
+    },
+    "eras/origens/origensObjects.glb": {
+      "file": "assets/origensObjects.3e3e5d1c.glb",
+      "bytes": 89416
+    },
+    "eras/origens/origensPhysical.glb": {
+      "file": "assets/origensPhysical.883c3428.glb",
+      "bytes": 28980
+    },
+    "eras/origens/origensReferences.glb": {
+      "file": "assets/origensReferences.f6cb49ae.glb",
+      "bytes": 16328
+    },
+    "eras/origens/origensVisual.glb": {
+      "file": "assets/origensVisual.6121775b.glb",
+      "bytes": 631508
+    },
+    "eras/origens/origens_line_spline.json": {
+      "file": "assets/origens_line_spline.8d85c41a.json",
+      "bytes": 63986
+    },
+    "eras/origens/origens_shadow.json": {
+      "file": "assets/origens_shadow.4802afa6.json",
+      "bytes": 684
+    },
+    "eras/origens/origens_shadow.png": {
+      "file": "assets/origens_shadow.c7d97338.png",
+      "bytes": 7936
+    },
+    "eras/origens/origens_terrain.png": {
+      "file": "assets/origens_terrain.9e1bfb24.png",
+      "bytes": 15888
+    },
+    "eras/origens/ponto_interativo.png": {
+      "file": "assets/ponto_interativo.66ff0afa.png",
+      "bytes": 2794
+    },
+    "eras/transformacao/projects/dtcg-contrast.webp": {
+      "file": "assets/dtcg-contrast.c2a1ae45.webp",
+      "bytes": 40350
+    },
+    "eras/transformacao/projects/financial-sample-analysis.webp": {
+      "file": "assets/financial-sample-analysis.4b78816b.webp",
+      "bytes": 38978
+    },
+    "eras/transformacao/projects/js-games.webp": {
+      "file": "assets/js-games.ebb9f712.webp",
+      "bytes": 31934
+    },
+    "eras/transformacao/projects/meu-poupig.webp": {
+      "file": "assets/meu-poupig.9b57c7f3.webp",
+      "bytes": 33242
+    },
+    "eras/transformacao/projects/snake-arena.webp": {
+      "file": "assets/snake-arena.c553f6a5.webp",
+      "bytes": 28174
+    },
+    "eras/transformacao/projects/xbox-sales.webp": {
+      "file": "assets/xbox-sales.049572f9.webp",
+      "bytes": 34442
+    },
+    "eras/transformacao/transformacaoObjects.glb": {
+      "file": "assets/transformacaoObjects.22d21961.glb",
+      "bytes": 199344
+    },
+    "eras/transformacao/transformacaoPhysical.glb": {
+      "file": "assets/transformacaoPhysical.97996b21.glb",
+      "bytes": 5012
+    },
+    "eras/transformacao/transformacaoReferences.glb": {
+      "file": "assets/transformacaoReferences.d0e971f5.glb",
+      "bytes": 8708
+    },
+    "eras/transformacao/transformacaoVisual.glb": {
+      "file": "assets/transformacaoVisual.2cec3f0c.glb",
+      "bytes": 631340
+    },
+    "eras/transformacao/transformacao_line_spline.json": {
+      "file": "assets/transformacao_line_spline.5d1e166e.json",
+      "bytes": 15089
+    },
+    "eras/transformacao/transformacao_shadow.json": {
+      "file": "assets/transformacao_shadow.09149f15.json",
+      "bytes": 715
+    },
+    "eras/transformacao/transformacao_shadow.png": {
+      "file": "assets/transformacao_shadow.da2a409b.png",
+      "bytes": 22449
+    },
+    "eras/transformacao/transformacao_terrain.png": {
+      "file": "assets/transformacao_terrain.8a013cd0.png",
+      "bytes": 4285
+    },
+    "eras/unicamp/unicampObjects.glb": {
+      "file": "assets/unicampObjects.e297f110.glb",
+      "bytes": 41388
+    },
+    "eras/unicamp/unicampPhysical.glb": {
+      "file": "assets/unicampPhysical.7ce22bfe.glb",
+      "bytes": 9804
+    },
+    "eras/unicamp/unicampReferences.glb": {
+      "file": "assets/unicampReferences.ea52f420.glb",
+      "bytes": 13164
+    },
+    "eras/unicamp/unicampVisual.glb": {
+      "file": "assets/unicampVisual.3a168ec1.glb",
+      "bytes": 253156
+    },
+    "eras/unicamp/unicamp_line_spline.json": {
+      "file": "assets/unicamp_line_spline.e8ebed56.json",
+      "bytes": 61288
+    },
+    "eras/unicamp/unicamp_shadow.json": {
+      "file": "assets/unicamp_shadow.7a2a5e27.json",
+      "bytes": 703
+    },
+    "eras/unicamp/unicamp_shadow.png": {
+      "file": "assets/unicamp_shadow.a345eef6.png",
+      "bytes": 15969
+    },
+    "eras/unicamp/unicamp_terrain.png": {
+      "file": "assets/unicamp_terrain.e70d1a87.png",
+      "bytes": 5619
+    },
+    "palette.png": {
+      "file": "assets/palette.4c4d5f3b.png",
+      "bytes": 285
+    },
+    "sounds/common/block_bump.mp3": {
+      "file": "assets/block_bump.3e1914eb.mp3",
+      "bytes": 3761
+    },
+    "sounds/common/block_solid.mp3": {
+      "file": "assets/block_solid.44bf0ac9.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/card_close.mp3": {
+      "file": "assets/card_close.0291363e.mp3",
+      "bytes": 2716
+    },
+    "sounds/common/card_open.mp3": {
+      "file": "assets/card_open.17646628.mp3",
+      "bytes": 3343
+    },
+    "sounds/common/flutter_ribbon.mp3": {
+      "file": "assets/flutter_ribbon.451cd392.mp3",
+      "bytes": 4179
+    },
+    "sounds/common/grind_loop.mp3": {
+      "file": "assets/grind_loop.99d47f6b.mp3",
+      "bytes": 16300
+    },
+    "sounds/common/jump_launch.mp3": {
+      "file": "assets/jump_launch.76a4097a.mp3",
+      "bytes": 3134
+    },
+    "sounds/common/land_hard.mp3": {
+      "file": "assets/land_hard.3ff40ec4.mp3",
+      "bytes": 3343
+    },
+    "sounds/common/land_soft.mp3": {
+      "file": "assets/land_soft.9590a3a5.mp3",
+      "bytes": 2507
+    },
+    "sounds/common/line_pluck_01.mp3": {
+      "file": "assets/line_pluck_01.53fe9a90.mp3",
+      "bytes": 4806
+    },
+    "sounds/common/line_pluck_02.mp3": {
+      "file": "assets/line_pluck_02.afdf4d44.mp3",
+      "bytes": 4806
+    },
+    "sounds/common/line_pluck_03.mp3": {
+      "file": "assets/line_pluck_03.c1ac47de.mp3",
+      "bytes": 4806
+    },
+    "sounds/common/signal_collect.mp3": {
+      "file": "assets/signal_collect.584dd9e8.mp3",
+      "bytes": 3761
+    },
+    "sounds/common/skid_dust.mp3": {
+      "file": "assets/skid_dust.d30e20e7.mp3",
+      "bytes": 3134
+    },
+    "sounds/common/stamp_impact.mp3": {
+      "file": "assets/stamp_impact.6415a8e6.mp3",
+      "bytes": 3761
+    },
+    "sounds/common/stamp_lock.mp3": {
+      "file": "assets/stamp_lock.fc820fa4.mp3",
+      "bytes": 2716
+    },
+    "sounds/common/step_grass_01.mp3": {
+      "file": "assets/step_grass_01.68e486d6.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_grass_02.mp3": {
+      "file": "assets/step_grass_02.92393454.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_grass_03.mp3": {
+      "file": "assets/step_grass_03.85c90835.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_grass_04.mp3": {
+      "file": "assets/step_grass_04.01a9f0fd.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_laterite_01.mp3": {
+      "file": "assets/step_laterite_01.f31b6b30.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_laterite_02.mp3": {
+      "file": "assets/step_laterite_02.f0e36511.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_laterite_03.mp3": {
+      "file": "assets/step_laterite_03.a4338a6b.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_laterite_04.mp3": {
+      "file": "assets/step_laterite_04.fc39cb8f.mp3",
+      "bytes": 2298
+    },
+    "sounds/common/step_stone_01.mp3": {
+      "file": "assets/step_stone_01.f4663053.mp3",
+      "bytes": 2089
+    },
+    "sounds/common/step_stone_02.mp3": {
+      "file": "assets/step_stone_02.db227ac2.mp3",
+      "bytes": 2089
+    },
+    "sounds/common/step_stone_03.mp3": {
+      "file": "assets/step_stone_03.75e2e1fb.mp3",
+      "bytes": 2089
+    },
+    "sounds/common/step_wood_01.mp3": {
+      "file": "assets/step_wood_01.9ff05982.mp3",
+      "bytes": 2089
+    },
+    "sounds/common/step_wood_02.mp3": {
+      "file": "assets/step_wood_02.04821f8c.mp3",
+      "bytes": 2089
+    },
+    "sounds/common/step_wood_03.mp3": {
+      "file": "assets/step_wood_03.cace3f64.mp3",
+      "bytes": 2089
+    },
+    "sounds/origens/amb_cerrado_dawn.mp3": {
+      "file": "assets/amb_cerrado_dawn.3a838d26.mp3",
+      "bytes": 112557
+    },
+    "sounds/origens/amb_rio_tocantins.mp3": {
+      "file": "assets/amb_rio_tocantins.5447376e.mp3",
+      "bytes": 112557
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "minX": -42.0,
+  "maxX": 42.0,
+  "minZ": -54.0,
+  "maxZ": 24.0,
+  "spanX": 84.0,
+  "spanZ": 78.0,
+  "sunDir": [
+    -0.09585,
+    0.875845,
+    -0.472979
+  ],
+  "resolution": 1024,
+  "bytes": 7936,
+  "colorType": 0,
+  "bitDepth": 8,
+  "flipY": false,
+  "meshes": [
+    "OrigensPaperBorders",
+    "OrigensWaterBase",
+    "OrigensLineRibbon",
+    "OrigensFoliageStatic",
+    "OrigensOpaqueStatic"
+  ],
+  "stats": {
+    "shadowedPixels": 336025,
+    "penumbraPixels": 9248,
+    "litPixels": 705561,
+    "totalPixels": 1048576,
+    "shadowFraction": 0.320458,
+    "minByte": 0,
+    "maxByte": 255,
+    "meanByte": 173.07
+  },
+  "elapsed_s": 10.257
+}

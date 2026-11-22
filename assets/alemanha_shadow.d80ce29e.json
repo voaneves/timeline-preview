@@ -1,0 +1,36 @@
+{
+  "minX": -32.0,
+  "maxX": 32.0,
+  "minZ": -26.0,
+  "maxZ": 26.0,
+  "spanX": 64.0,
+  "spanZ": 52.0,
+  "sunDir": [
+    -0.09585,
+    0.875845,
+    -0.472979
+  ],
+  "resolution": 1024,
+  "bytes": 21604,
+  "colorType": 0,
+  "bitDepth": 8,
+  "flipY": false,
+  "meshes": [
+    "AlemanhaPaperBorders",
+    "AlemanhaWaterBase",
+    "AlemanhaLineRibbon",
+    "AlemanhaFoliageStatic",
+    "AlemanhaOpaqueStatic"
+  ],
+  "stats": {
+    "shadowedPixels": 179063,
+    "penumbraPixels": 25021,
+    "litPixels": 852349,
+    "totalPixels": 1048576,
+    "shadowFraction": 0.170768,
+    "minByte": 0,
+    "maxByte": 255,
+    "meanByte": 211.45
+  },
+  "elapsed_s": 14.309
+}
